@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langgraph
+langsmith
+pydantic
+requests
+yfinance
+python-dotenv
+pandas
+faiss-cpu
+tavily-python
+browserless
+huggingface_hub
